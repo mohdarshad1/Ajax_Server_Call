@@ -7,17 +7,17 @@
     },
     {
       "id": 2,
-      "name": "Ankit",
+      "name": "Suraj",
       "salary": "80000"
     },
     {
       "id": 3,
-      "name": "Suraj",
+      "name": "Rahul",
       "salary": "30000"
     },
     {
-      "name": "Rahul",
-      "salary": "80000",
+      "name": "Kapil",
+      "salary": "90000",
       "id": 4
     }
   ]
